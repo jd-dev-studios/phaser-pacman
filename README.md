@@ -1,4 +1,4 @@
-# Gemini-Pac 🕹️
+# Phaser Pac-Man 🕹️
 
 A fully functional, arcade-style Pac-Man clone built using **Phaser 3** and **JavaScript**. This project features classic mechanics including ghost AI, power pellets, "frightened" states, and warp tunnels.
 
@@ -23,7 +23,7 @@ This project was developed through an iterative, collaborative process with **Ge
 * **Graphics:** Dynamic Procedural Textures (Phaser Graphics)
 
 ## 🎮 How to Play
-1.  **Clone the repo:** `git clone https://github.com/YOUR_USERNAME/Gemini-Pac.git`
+1.  **Clone the repo:** `git clone https://github.com/jd-dev-studios/phaser-pacman.git`
 2.  **Run a local server:** Because Phaser loads assets/logic via scripts, use an extension like "Live Server" in VS Code or run `python -m http.server`.
 3.  **Controls:** * **Arrow Keys:** Move Pac-Man.
     * **Spacebar:** Restart after Game Over.
